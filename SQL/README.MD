@@ -24,7 +24,7 @@ curl 7.55.1 (Windows) libcurl/7.55.1 WinSSL
   
 
 ## Resultado esperado
->Após seguir os passos acima, a execução do código disponibilizado em sp_GET_SWAPI_VEHICLES.sql resulta na criação de uma tabela (SWAPI_VEHICLES) e, posteriormente no preenchimento desta tabela com os valores recuperados de [swapi.co/vehicles](https://swapi.co/api/vehicles/)
+>Após seguir os passos acima, a execução do código disponibilizado em sp_GET_SWAPI_VEHICLES.sql resulta na criação de uma tabela (SWAPI_VEHICLES) e, posteriormente, no preenchimento desta tabela com os valores recuperados de [swapi.co/vehicles](https://swapi.co/api/vehicles/)
 
 
 
