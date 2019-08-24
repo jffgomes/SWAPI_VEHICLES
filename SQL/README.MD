@@ -8,7 +8,7 @@ Para melhor indentação e análise do código, recomenda-se copiar o conteúdo 
 
 [parseJSON](https://github.com/khanhmai/Parse-JSON-String-by-SQL-script/blob/master/ParseJSON-FUNCTION.sql) - Procedure que permite recuperar dados de um JSON em versões anteriores ao SQL 2014.
 
-## Importante
+#### Instalação das dependências
 > Antes de executar o código disponibilizado em sql sp_GET_SWAPI_VEHICLES.sql, certifique-se de que os passos abaixo foram concluídos
 
 
