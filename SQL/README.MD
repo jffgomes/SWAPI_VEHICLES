@@ -13,6 +13,7 @@ Para melhor indentação e análise do código, recomenda-se copiar o conteúdo 
 
 
   - Instale o [CURL](https://curl.haxx.se/)
+  
  Caso a instalação e configuração esteja de acordo, o comando abaixo deverá retornar o seguinte resultado
    ```dos
 C:\Users\A-23H3SA>curl --version
