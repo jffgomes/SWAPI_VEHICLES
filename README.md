@@ -1,2 +1,2 @@
 # SWAPI_VEHICLES
-Fetches data from https://swapi.co/api/vehicles/ and returns in a table for further treatment
+Consulta dados da API https://swapi.co/api/vehicles/ e os insere em uma tabela para visualização/tratamento
