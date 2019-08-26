@@ -15,7 +15,7 @@ public partial class _Default : System.Web.UI.Page
     string SQL_S = Environment.GetEnvironmentVariable("SQL_S");
     string SQL_U = Environment.GetEnvironmentVariable("SQL_U");
     string SQL_P = Environment.GetEnvironmentVariable("SQL_P");
-    string SQL_DB = Environment.GetEnvironmentVariable("SQL_P");
+    string SQL_DB = Environment.GetEnvironmentVariable("SQL_DB");
 
 
     protected void Page_Load(object sender, EventArgs e)
