@@ -1,0 +1,102 @@
+﻿body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: #f3efe7;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .navbar a:hover {
+            background: #ddd;
+            color: black;
+        }
+
+.main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px; /* Used in this example to enable scrolling */
+}
+.button {
+    background-color: #333; /* Red-ish brown */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top:5%;
+}
+    .button:hover {
+        background-color: #420b0b; /* Green */
+        color: white;
+    }
+.GridGis {
+    width: 100%;
+    background-color: #FFFFFF;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    
+}
+
+    .GridGis td {
+        padding: 2px;
+    }
+
+    .GridGis th {
+        height: 20px;
+        padding: 4px 6px;
+        color: black;
+        background: #ACA899 url(../images/header.png) repeat-x top;
+        text-align: center;
+    }
+
+    .GridGis .alt {
+        background: #fcfcfc;
+        color: black
+    }
+
+    .GridGis .row {
+        background: #fcfcfc;
+        color: black
+    }
+
+    .GridGis .pgr {
+        background: #ADA99A url(../images/pager.png) repeat-x top;
+    }
+
+    .GridGis tr.alt:hover, .GridGis tr.row:hover {
+        background-color: #E8E8E8;
+    }
+
+    .GridGis .slct {
+        background-color: Yellow;
+        color: Blue;
+    }
+
+.tx_ws_result{
+    min-height:200px;
+    max-height:800px;
+    min-width: 200px;
+    max-width: 800px;
+}
+.FixedHeader {
+    position: relative;
+    font-weight: bold;
+}
