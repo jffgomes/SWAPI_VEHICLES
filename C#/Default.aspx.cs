@@ -76,7 +76,7 @@ public partial class _Default : System.Web.UI.Page
         }
         catch (Exception)
         {
-            lb_error.Text = "Error fetching data from source: <a href=\"https://swapi.co/api/vehicles/\"";
+            lb_error.Text = "Error fetching data from source: <a href=\"https://swapi.co/api/vehicles/\">";
         }  
     }
     
